@@ -1,0 +1,23 @@
+
+ 
+.inputes{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    padding: 30px;
+
+}
+h1{
+    text-align: center;
+}
+.smalltext{
+    display: flex;
+    justify-content: space-between;
+    color: #41deec;
+    text-decoration: none;
+}
+.link{
+    color: #41deec;
+    text-decoration: none;
+}
+

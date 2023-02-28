@@ -1,0 +1,15 @@
+.buuton_Sub {
+    background-color: #41deec;
+    width: 30%;
+    margin-top: 30px;
+    padding: 7px;
+    border-radius: 7px;
+    color: white;
+    font-size: 20px;
+}
+.buuton_Sub:hover {
+    background-color: #ffffff;
+    color: #011314;
+    border: 3px solid  #41deec;
+ 
+}
